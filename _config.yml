@@ -1,18 +1,18 @@
 # Site settings
-title: Destination Single
+title: Algarve
 client:
-  name: Client Name
-  link: "#client-name"
+  name: Turismo De Portugal - Algarve
+  link: https://www.visitalgarve.pt/en/Default.aspx
 core-se-link: https://www.secretescapes.com/current-sales
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  On the southern tip of Portugal lies the country’s most remarkable region – the Algarve. Fringed by a beautiful coastline that shelters golden sea caves and dreamy beaches, the Algarve mixes natural beauty with cultural delights effortlessly. Year-round sun promises enviable escapes framed by exquisite wine and foodie treats, Moorish old towns and buzzing markets, cosmopolitan flair and coastal hideaways – discover your next adventure here.
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/_templates/destination-single" # the subpath of your site, e.g. /blog/
-img:     "/_templates/destination-single/_assets/img"
-css:     "/_templates/destination-single/_assets/css"
-js:      "/_templates/destination-single/_assets/js"
+baseurl: "/algarve" # the subpath of your site, e.g. /blog/
+img:     "/algarve/_assets/img"
+css:     "/algarve/_assets/css"
+js:      "/algarve/_assets/js"
 
 
 # Build settings

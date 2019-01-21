@@ -4,6 +4,10 @@
 
   // custom content headline
   font-family: $font-title-01;
+  font-weight: 700;
+  letter-spacing: -.055em;
+  line-height: 1.2;
+
   &--xxxl   { font-size: $s8; }
   &--xxl    { font-size: $s7; }
   &--xl     { font-size: $s6; }
@@ -78,9 +82,24 @@
 
   // custom banner headline
   font-family: $font-title-01;
-  text-transform: uppercase;
   font-size: $s5;
+  font-weight: 800;
+  letter-spacing: -.1rem;
+  line-height: 1.2;
   @include bp($md){ font-size: $s7; }
-  @include bp($xl){ font-size: $s10; }
+  @include bp($xl){ font-size: $s13; }
 
+}
+
+.banner-sub-title {
+  font-family: Raleway;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .8rem;
+  font-size: $s3;
+  &--sm {
+    font-size: $s2;
+    letter-spacing: .2em;
+    line-height: 1.2;
+  }
 }

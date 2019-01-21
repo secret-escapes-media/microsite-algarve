@@ -17,6 +17,12 @@
   &--orange { background-color: $orange;
     &:hover { background-color: $orange-dark; }
   }
+  &--yellow { background-color: $a-yellow;
+    &:hover { background-color: darken($a-yellow, 10); }
+  }
+  &--yellow { background-color: $a-red;
+    &:hover { background-color: darken($a-red, 10); }
+  }
   &--outline {
     color: inherit;
     &:before {

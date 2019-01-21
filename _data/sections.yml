@@ -1,32 +1,27 @@
-- id: one
-  title: Section one
-  nav-title: One
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est! Temporibus optio unde voluptates odio aliquam rem necessitatibus placeat, maxime, explicabo reiciendis, eos. Incidunt sed nisi, alias deleniti aut porro corporis quasi possimus nulla nostrum eveniet sunt eos dolore eligendi fugit, iste quisquam soluta rem veritatis perferendis fugiat esse.
+- id: coast
+  title: The Coast
+  description: Golden cliffs and long, white-sand beaches hug the Algarvian coastline – an inviting prospect for sun seekers. The towns along the coast are buzzing with cafes and bars, and the natural sights are breathtaking. Time to head for the beach.
 
   pois:
 
     title: points of interest title
     items:
 
-      - id: one-first-poi
-        title: One First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: cliffs-caves
+        title: Cliffs & Caves
+        description: Near Lagos, you’ll find the Ponta da Piedade, a golden promontory that juts into the sea. The chain of cliffs is best explored by boat, where the unusual forms of the rock create caves, pillars and enchanting grottos. Further along the coast, the famous Benagil cave is a remarkable swimming spot, with an impressive natural cupola open at its peak streaming lightbeaches onto the sheltered beach below. Buy a lilo and sling your stuff on it, swimming around to this hidden, mesmerising spot.
 
-      - id: one-second-poi
-        title: One Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: coastal-towns
+        title: Coastal Towns
+        description: The towns that dot the coastline of the Algarve are, naturally, perfect places to set up shop whilst discovering this gorgeous region. Expect Moorish ruins and foodie treats in Aljezur, or enjoy the wonderfully traditional Tavira, decked with medieval touches and cool, whitewashed piazzas. However, if you’re looking for something far from the tourist path, Cacela Velha is possibly the quaintest of all the Algarve’s coastal retreats. It’s tiny, traditional, picturesque and a true Algarvian idyll.
 
-      - id: one-third-poi
-        title: One Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: beaches
+        title: Beaches
+        description: The beaches here are some of the finest in Europe. The water, azure blue, the sands golden. And this is what you’re really here for, is it not? Praia da Marinha is a gorgeous beach, backed by cliffs and falling into crystal-clear waters. Explore the sea caves or kick-back in peace; the beach is quiet, only accessible by lengthy cliff stairs. Praia do Ancão is where the locals go, secluded yet close enough to bars and cafes. But for true peace seekers make for Praia da Barreta; only accessible by boat, this lengthy spit of beach is disconnected from the mainland. Paradise!
 
-      - id: one-fourth-poi
-        title: One Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: one-fifth-poi
-        title: One Fifth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: ria-formosa
+        title: Ria Formosa
+        description: This remarkable wetland of lagoons and small island spits is a natural treasure. Migratory birds depend on this unique landscape, making the wetlands perfect for birdwatching. A picture of blue and green, boat tours frequently criss-cross through the lengthy island network, so pick your tour and discover the Algarve’s most coveted natural prize.
 
 
 
@@ -34,35 +29,30 @@
 
 
 
-- id: two
-  title: Section Two
-  nav-title: Two
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est! Temporibus optio unde voluptates odio aliquam rem necessitatibus placeat, maxime, explicabo reiciendis, eos. Incidunt sed nisi, alias deleniti aut porro corporis quasi possimus nulla nostrum eveniet sunt eos dolore eligendi fugit, iste quisquam soluta rem veritatis perferendis fugiat esse.
+- id: land
+  title: The Interior
+  description: It would be a crying shame to miss the gems that lie inland. Tear yourself away from the beaches and you could discover picturesque village life, dramatic outdoor scenes, long hikes and exciting cosmopolitan centres. Head inland for hidden Algarve.
 
   pois:
 
     title: points of interest title
     items:
 
-      - id: two-first-poi
-        title: Two First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: alte
+        title: Alte
+        description: In the rolling interior of the region, picturesque villages and small towns cling to rocky outcrops, warrens of rural life ripe for exploration. The cobbled, whitewashed town of Alte is refreshingly pretty. Winding lanes connect small artisan craft shops, cafes and restaurants, with fontes (small streams that once fed the mills) spread throughout. The Grand Font is perfect for a refreshing dip – just as the locals do.
 
-      - id: two-second-poi
-        title: Two Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: hike-to-the-convento-nossa-senhora-de-desterro
+        title: Hike to the Convento Nossa Senhora De Desterro
+        description: Head for the town of Monchique, a quaint spot hidden amongst the eponymous forested mountains. As you head up the steep cobbled lanes, follow signs for ‘Convento’. The road soon disappears as the path winds upward through forested slopes, an enchanting setting backdropped with excellent views over the town and valley. Soon, you’ll reach the crumbling edifice of the old convent. It’s a hauntingly beautiful place, hiding on the hillside...
 
-      - id: two-third-poi
-        title: Two Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: via-algarviana
+        title: Via Algarviana
+        description: This long trail, an old pilgrim route, stretches from one end of the Algarve to the other. It snakes over mountain valleys, thick forests and wetlands. Pick your stretch and discover the natural beauty of the region, passing quaint villages and towns steeped in history and brimming with culture. Cross over the Serra do Caldeirão, make for the Serra de Monchique, or head straight to the finishing line; the cliff edges of the Promontory of Sagres. Each walk or hike promises inspired sights.
 
-      - id: two-fourth-poi
-        title: Two Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: two-fifth-poi
-        title: Two Fifth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: loule
+        title: Loulé
+        description: The largest inland town, Loulé is a great jumping off point for exploring the Algarve’s mountains and hidden villages. Its markets are great for stocking up on supplies, its cafes and restaurants great for indulging in southern Portugal’s delicacies. The dominating Moorish castle and surrounding old quarter are a charming setting, hiding age-old artisan workshops. Tradition runs deep; the town’s history stretches back to the Romans. Don’t miss the annual musical festival and colourful carnival!
 
 
 
@@ -70,35 +60,30 @@
 
 
 
-- id: three
-  title: Section Three
-  nav-title: Three
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est! Temporibus optio unde voluptates odio aliquam rem necessitatibus placeat, maxime, explicabo reiciendis, eos. Incidunt sed nisi, alias deleniti aut porro corporis quasi possimus nulla nostrum eveniet sunt eos dolore eligendi fugit, iste quisquam soluta rem veritatis perferendis fugiat esse.
+- id: culture
+  title: The Culture
+  description: Discover the Algarve life in the bustling gypsy markets and the labyrinthine streets of its old towns. Unpick a heritage that mixes old Moorish influence with traditional Algarvian living, from sacred art to relaxed piazza coffee-culture...
 
   pois:
 
     title: points of interest title
     items:
 
-      - id: three-first-poi
-        title: Three First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: lagos-old-town
+        title: Lagos Old Town
+        description: This bustling town, where the Algarve’s heritage is written into the architecture and style of the place, shelters a beautiful Old Town. Roman and Moorish landmarks fall around, with high curtain walls enclosing the medieval alleyways. Islamic curves sit next to Italianate piazzas, where cafe culture thrives and the restaurants excel in Algarvian offerings. Do as the Algarvians do; find a spot for people watching over coffee and nibbles in this gorgeous locale.
 
-      - id: three-second-poi
-        title: Three Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: silves
+        title: Silves
+        description: You’ll know you’ve reached the quiet town of Silves – the red-stone castle dominates the hilltop, with the old town falling down the slopes. It’s an impressive Moorish fortification, worth a closer look; plus, overlooking the towering walls offers great views over the town’s pretty terracotta rooftops. Wander the old town and make for the indoor market, listening in on the frantic haggling and bagging some regional treats. The wider Silves region is also home to plenty of wineries, so be sure to pitch-up al fresco with a glass.
 
-      - id: three-third-poi
-        title: Three Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: sacred-art
+        title: Sacred Art
+        description: The Algarve remains a spiritual place and nowhere is this more evident than in the devotion shown to the churches across the region. Their humble, whitewashed exteriors create an almost comical juxtaposition to their breathtakingly ornate interiors. Take São Lourenço; past the plain facade hides an evocative blue and white marvel, an intricately-tiled interior so punchy you’ll miss a breath. Azelujo tiles create a powerful performance. Such intricacy is also found in the gilded confines of Igreja de Nossa Senhora do Carmo; but the morbid highlight is the carefully-decorated bone chapel at its rear, the Capela dos Ossos.
 
-      - id: three-fourth-poi
-        title: Three Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: three-fifth-poi
-        title: Three Fifth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: gypsy-markets
+        title: Gypsy markets
+        description: The region’s gypsy markets, or flea markets, are a great place to get down with locals. Study carefully; haggling is a rite of passage! Find vintage gems and artisanal treats – most will have a smattering of local craftspeople and foodie producers sharing their wares. Make for Loulé on Saturdays (next to the food market!), or head for the monthly market at Lagoa. There’s more across the region to suit any visit, so brush up on your Portuguese bargaining skills and find your treasures!
 
 
 
@@ -106,32 +91,27 @@
 
 
 
-- id: four
-  title: Section Four
-  nav-title: Four
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est! Temporibus optio unde voluptates odio aliquam rem necessitatibus placeat, maxime, explicabo reiciendis, eos. Incidunt sed nisi, alias deleniti aut porro corporis quasi possimus nulla nostrum eveniet sunt eos dolore eligendi fugit, iste quisquam soluta rem veritatis perferendis fugiat esse.
+- id: food
+  title: The Tastes
+  description: Delectable seafood and delicious culinary traditions form the backbone of the Algarve larder. The temperate climate spoils producers with outstanding produce, from the rolling vineyards to the tasty offerings in the regions many farmers’ markets...
 
   pois:
 
     title: points of interest title
     items:
 
-      - id: four-first-poi
-        title: Four First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: seafood
+        title: Seafood
+        description: It’s no surprise that the Algarve is a seafood lover’s paradise. Fresh fish is the mainstay of the Algarve kitchen – it doesn’t come much fresher. Local favourites include grilled sardines and the regional classic, cataplana. Lobster, clams, squid and whatever else looks good is hauled from the sea and cooked in white wine and tomato, in an eponymous copper dish. Delicious!
 
-      - id: four-second-poi
-        title: Four Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: sweet-treats
+        title: Sweet treats
+        description: It’s evident that Algarvians have perfected their sweet-tooth smorgasbord. Doces finos – colourful marzipan shapes filled with sweet egg cream, morgadinho – a round, white ball of delicate delight, and the rather unique, silver-wrapped Dom Rodrigo – sweet egg threads and sweet egg cream flavoured with cinnamon. Finish it off with a tipple of medronho, an arbutus-berry brandy.
 
-      - id: four-third-poi
-        title: Four Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: markets
+        title: Markets
+        description: Any discerning foodie knows that markets are the best place to discover the tastes of a region. Farmers and producers bring their wares, piling it high and creating a mouthwatering scene at these buzzing markets. From Loulé to Faro, farmers’ markets are an Algarve staple, perfect places to grab delicious produce for a picnic on the beach or souvenirs for home.
 
-      - id: four-fourth-poi
-        title: Four Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: four-fifth-poi
-        title: Four Fifth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: wine
+        title: Wine
+        description: Year-round sun makes the Algarve a perfect setting for vintners; the soil is rich and the harvest leads to exceptional wines – hence the DOC marque for the region. Visit the vineyards and revel in cellar-door tastings at esteemed producers like Quinta dos Vales, Quinta da Francês and many more. Cheers!

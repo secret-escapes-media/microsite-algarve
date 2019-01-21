@@ -11,37 +11,49 @@
 
     {% include page/banner.html %}
 
+    <div class="vpad--xxl">
+      <div class="container">
+        <div class="width width--lg text--center text--xxl">
+          <p>{{site.description}}</p>
+        </div>
+      </div>
+    </div>
+
     <div class="content-spacing section-spacing">
 
       <!-- loops through section file for page content -->
       {% for section in site.data.sections %}
-        <div id="{{section.id}}" class="js-nav-section vpad--xxxxl {% cycle 'bg--white', 'bg--light' %}">
+        <div id="{{section.id}}" class="js-nav-section vpad--xxxxl bg__fixed">
+          <div class="bg__fixed-wrap">
+            <div class="bg__fixed-img" style="background-image: url('{{site.img}}/content/{{section.id}}/bg.jpg');"></div>
+          </div>
           <div class="container">
 
-            <div class="row row--valign-center row--gutters-lg row--6-6">
+            <div class="row row--valign-center row--gutters-lg row--xxl-6-6">
               <div class="col">
                 <div class="title title--xxl">{{section.title}}</div>
-                <p>{{section.description}}</p>
+                <p class="text--xxl">{{section.description}}</p>
               </div>
               <div class="col">
-                <div class="bg-img bg-img--4-3" style="background-image: url('{{site.img}}/img.jpg');"></div>
+                <div class="bg-img bg-img--3-2 bg-img--xxl-1-1" style="background-image: url('{{site.img}}/content/{{section.id}}/feature.jpg');"></div>
               </div>
             </div>
 
             <div class="space--xxl"></div>
 
-            <div class="bg--grey text--center boxpad--xl">
-              <div class="title title--xs">{{section.pois.title}}</div>
-              <div class="space--sm"></div>
-              <div class="row row--constant-6-6 row--lg-4-4-4 row--xxxl-2-2-2-2-2 row--gutters-sm">
-                {% for poi in section.pois.items %}
-                <div class="col">
-                  <div id="tracking-poi-{{poi.id}}" class="js-open-modal bg-img bg-img--3-2" data-open-modal="{{poi.id}}" style="background-image: url('{{site.img}}/img.jpg');"></div>
+            <div class="row row--md-6-6 row--xxl-3-3-3-3">
+              {% for poi in section.pois.items %}
+              <div class="col">
+                <div class="bg-img bg-img--2-3" style="background-image: url('{{site.img}}/content/{{section.id}}/pois/{{poi.id}}.jpg');">
+                  <a id="tracking-poi-{{poi.id}}" href="#" class="bg-img__link js-open-modal" data-open-modal="{{poi.id}}"></a>
+                  <div class="bg-img__bg-overlay"></div>
+                  <div class="bg-img__content">
+                    <div class="banner-sub-title banner-sub-title--sm">{{poi.title}}</div>
+                  </div>
                 </div>
-                {% endfor %}
               </div>
+              {% endfor %}
             </div>
-
 
           </div>
         </div>
@@ -49,17 +61,15 @@
 
       <!-- Offers section -->
       <div id="offers" class="js-nav-section">
-        <div class="space--xxxl"></div>
-        <div class="title title--xxxl text--center">Latest Offers</div>
+        <div class="space--xxxxl"></div>
+        <div class="title title--xxl text--center">Latest Offers</div>
         <div class="space--xxl"></div>
         {% include offer/all-offers.html %}
         <div class="space--xxxl"></div>
         {% include page/promo-offers.html %}
       </div>
 
-
     </div>
-
 
     {% include page/footer.html %}
 
