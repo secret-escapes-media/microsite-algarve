@@ -17,33 +17,27 @@
   &--orange { background-color: $orange;
     &:hover { background-color: $orange-dark; }
   }
-  &--yellow { background-color: $a-yellow;
-    &:hover { background-color: darken($a-yellow, 10); }
-  }
-  &--yellow { background-color: $a-red;
-    &:hover { background-color: darken($a-red, 10); }
-  }
-  &--outline {
-    color: inherit;
-    &:before {
-      // button border within original padding
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      border-width: 1px;
-      border-style: solid;
-      border-radius: inherit;
-      @include transition;
-    }
-  }
-  &--outline-orange {
-    &:before { border-color: $orange; }
-    &:hover {
-      background-color: $orange;
-      &:before { border-color: $orange; }
-    }
-  }
+  // &--outline {
+  //   color: inherit;
+  //   &:before {
+  //     // button border within original padding
+  //     content: '';
+  //     position: absolute;
+  //     top: 0;
+  //     left: 0;
+  //     right: 0;
+  //     bottom: 0;
+  //     border-width: 1px;
+  //     border-style: solid;
+  //     border-radius: inherit;
+  //     @include transition;
+  //   }
+  // }
+  // &--outline-orange {
+  //   &:before { border-color: $orange; }
+  //   &:hover {
+  //     background-color: $orange;
+  //     &:before { border-color: $orange; }
+  //   }
+  // }
 }
