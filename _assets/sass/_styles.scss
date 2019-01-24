@@ -1,1 +1,17 @@
 // general styles for the project that wouldn't be a reuseable component
+
+.main-title {
+  // adjustments to properly kern the main "Algarve" title
+  > .char2 { letter-spacing: -.045em; }
+  > .char3 { letter-spacing: -.04em; }
+  > .char4 { letter-spacing: -.03em; }
+  > .char5 { letter-spacing: .02em; }
+  > .char6 { letter-spacing: -.075em; }
+}
+
+.bg-img__bg-overlay {
+  background-color: rgba(#424b58,.4);
+}
+.bg-img:hover .bg-img__bg-overlay {
+  background-color: rgba(#2e353e,.6);
+}
