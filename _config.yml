@@ -8,7 +8,7 @@ description: >
   On the southern tip of Portugal lies the country’s most remarkable region – the Algarve. Fringed by a beautiful coastline that shelters golden sea caves and dreamy beaches, the Algarve mixes natural beauty with cultural delights effortlessly. Year-round sun promises enviable escapes framed by exquisite wine and foodie treats, Moorish old towns and buzzing markets, cosmopolitan flair and coastal hideaways – discover your next adventure here.
 
 # file paths
-url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
+url:     "https://mp.secretescapes.com" # the base hostname & protocol for your site
 baseurl: "/algarve" # the subpath of your site, e.g. /blog/
 img:     "/algarve/_assets/img"
 css:     "/algarve/_assets/css"
