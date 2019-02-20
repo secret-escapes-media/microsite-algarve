@@ -1,13 +1,13 @@
-- title: Monchique Resort & Spa
-  id: monchique-resort-and-spa
-  location: The Algarve, Portugal
-  description: A stylish spa hideaway in an off-grid corner of the Algarve
-  price: 64
-  price-description: per suite per night
-  saved: 49
-  expires: 2019/02/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/80147/bc77390b_3a65_4d2b_9da2_cc59c50c5f04.jpg
-  link: https://www.secretescapes.com/monchique-resort-and-spa-the-algarve-portugal789/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=February2019
+- title: Modern adults-only Algarve holiday by the beach
+  id: modern-adults-only-algarve-holiday-by-the-beach
+  location: Agua Pedra dos Bicos, Portugal
+  description: Algarve beach bliss at a modern adults-only hotel
+  price: 225
+  price-description: per person for 5 nights
+  saved: 26
+  expires: 2019/02/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/83693/0a567a4e_71e0_42da_9683_9b8ff45aa145.jpg
+  link: https://www.secretescapes.com/modern-adults-only-algarve-holiday-by-the-beach-agua-pedra-dos-bicos-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=February2019
 
 - title: Amendoeira Golf Resort
   id: amendoeira-golf-resort
@@ -16,28 +16,17 @@
   price: 92
   price-description: per apartment per night
   saved: 64
-  expires: 2019/02/18
+  expires: 2019/02/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/31715/c0d038af_892f_44b7_a82e_b48c2ed9433b.jpg
   link: https://www.secretescapes.com/amendoeira-golf-resort-algarve-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=February2019
 
-- title: 5* Portugal beach holiday with sea views
-  id: 5-portugal-beach-holiday-with-sea-views
-  location: Pestana Alvor Praia Premium Beach & Golf Resort, Portugal
-  description: A five-star beach and golf resort on the Algarve
-  price: 265
-  price-description: per person for 4 nights
-  saved: 23
-  expires: 2019/02/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88135/ad5e264e_7e41_4975_9d4b_267915d6af5d.jpg
-  link: https://www.secretescapes.com/5-star-portugal-beach-holiday-with-sea-views-pestana-alvor-praia-premium-beach-and-golf-resort-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=February2019
-
-- title: Monte Santo Resort
-  id: monte-santo-resort
-  location: Lagoa, Portugal
-  description: Five-star bliss in the Algarve at 'Portugal's Most Romantic Resort'
-  price: 80
-  price-description: per suite per night
-  saved: 37
+- title: Hilton Vilamoura As Cascatas Golf Resort & Spa
+  id: hilton-vilamoura-as-cascatas-golf-resort-and-spa
+  location: Algarve, Portugal
+  description: A luxurious five-star Algarve hotel with golf course and tranquil spa
+  price: 86
+  price-description: per room per night
+  saved: 25
   expires: 2019/02/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/30811/747bf150_942e_491d_b78b_3ca250a6de13.jpg
-  link: https://www.secretescapes.com/monte-santo-resort-lagoa-portugal-uk/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=February2019
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/59592/a27e86ec_9cc3_465f_bfae_5ff79c2406c7.jpg
+  link: https://www.secretescapes.com/hilton-vilamoura-as-cascatas-golf-resort-and-spa-algarve-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=February2019
