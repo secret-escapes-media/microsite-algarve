@@ -1,13 +1,24 @@
 - title: Modern adults-only Algarve holiday by the beach
   id: modern-adults-only-algarve-holiday-by-the-beach
-  location: Agua Pedra dos Bicos, Portugal
+  location: Aqua Pedra dos Bicos, Portugal
   description: Algarve beach bliss at a modern adults-only hotel
   price: 225
   price-description: per person for 5 nights
   saved: 26
-  expires: 2019/02/25
+  expires: 2019/03/04
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/83693/0a567a4e_71e0_42da_9683_9b8ff45aa145.jpg
   link: https://www.secretescapes.com/modern-adults-only-algarve-holiday-by-the-beach-agua-pedra-dos-bicos-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=February2019
+
+- title: Laguna Resort Vilamoura
+  id: laguna-resort-vilamoura
+  location: Algarve, Portugal
+  description: A heavenly Algarve apartment stay at a contemporary resort
+  price: 37
+  price-description: per apartment per night
+  saved: 69
+  expires: 2019/03/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/89458/86d407dd_e6b3_43af_8eb1_66a7b7a0d651.jpg
+  link: https://www.secretescapes.com/laguna-resort-vilamoura-algarve-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=February2019
 
 - title: Amendoeira Golf Resort
   id: amendoeira-golf-resort
@@ -16,7 +27,7 @@
   price: 92
   price-description: per apartment per night
   saved: 64
-  expires: 2019/02/25
+  expires: 2019/03/01
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/31715/c0d038af_892f_44b7_a82e_b48c2ed9433b.jpg
   link: https://www.secretescapes.com/amendoeira-golf-resort-algarve-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=February2019
 
@@ -27,6 +38,6 @@
   price: 86
   price-description: per room per night
   saved: 25
-  expires: 2019/02/25
+  expires: 2019/03/04
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/59592/a27e86ec_9cc3_465f_bfae_5ff79c2406c7.jpg
   link: https://www.secretescapes.com/hilton-vilamoura-as-cascatas-golf-resort-and-spa-algarve-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=February2019
