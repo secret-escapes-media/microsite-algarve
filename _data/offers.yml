@@ -5,39 +5,28 @@
   price: 225
   price-description: per person for 5 nights
   saved: 26
-  expires: 2019/03/04
+  expires: 2019/03/11
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/83693/0a567a4e_71e0_42da_9683_9b8ff45aa145.jpg
-  link: https://www.secretescapes.com/modern-adults-only-algarve-holiday-by-the-beach-agua-pedra-dos-bicos-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=February2019
+  link: https://www.secretescapes.com/modern-adults-only-algarve-holiday-by-the-beach-agua-pedra-dos-bicos-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=March2019
 
 - title: Laguna Resort Vilamoura
   id: laguna-resort-vilamoura
   location: Algarve, Portugal
   description: A heavenly Algarve apartment stay at a contemporary resort
-  price: 37
+  price: 49
   price-description: per apartment per night
   saved: 69
-  expires: 2019/03/04
+  expires: 2019/03/11
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/89458/86d407dd_e6b3_43af_8eb1_66a7b7a0d651.jpg
-  link: https://www.secretescapes.com/laguna-resort-vilamoura-algarve-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=February2019
+  link: https://www.secretescapes.com/laguna-resort-vilamoura-algarve-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=March2019
 
-- title: Amendoeira Golf Resort
-  id: amendoeira-golf-resort
+- title: Longevity Cegonha Country Club
+  id: longevity-cegonha-country-club
   location: Algarve, Portugal
-  description: A stylish stay at a golfing paradise in the picturesque Algarve
-  price: 92
-  price-description: per apartment per night
-  saved: 64
-  expires: 2019/03/01
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/31715/c0d038af_892f_44b7_a82e_b48c2ed9433b.jpg
-  link: https://www.secretescapes.com/amendoeira-golf-resort-algarve-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=February2019
-
-- title: Hilton Vilamoura As Cascatas Golf Resort & Spa
-  id: hilton-vilamoura-as-cascatas-golf-resort-and-spa
-  location: Algarve, Portugal
-  description: A luxurious five-star Algarve hotel with golf course and tranquil spa
-  price: 86
-  price-description: per room per night
-  saved: 25
-  expires: 2019/03/04
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/59592/a27e86ec_9cc3_465f_bfae_5ff79c2406c7.jpg
-  link: https://www.secretescapes.com/hilton-vilamoura-as-cascatas-golf-resort-and-spa-algarve-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=February2019
+  description: Wind down with an elegant Algarve suite stay at a wellness and spa resort
+  price: 76
+  price-description: per suite per night
+  saved: 57
+  expires: 2019/03/11
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/64609/33511d55_4d72_4b5c_a888_afdc0ea3aeba.jpg
+  link: https://www.secretescapes.com/longevity-cegonha-country-club-algarve-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=March2019
