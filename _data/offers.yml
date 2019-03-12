@@ -1,25 +1,3 @@
-- title: Modern adults-only Algarve holiday by the beach
-  id: modern-adults-only-algarve-holiday-by-the-beach
-  location: Aqua Pedra dos Bicos, Portugal
-  description: Algarve beach bliss at a modern adults-only hotel
-  price: 225
-  price-description: per person for 5 nights
-  saved: 26
-  expires: 2019/03/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/83693/0a567a4e_71e0_42da_9683_9b8ff45aa145.jpg
-  link: https://www.secretescapes.com/modern-adults-only-algarve-holiday-by-the-beach-agua-pedra-dos-bicos-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=March2019
-
-- title: Laguna Resort Vilamoura
-  id: laguna-resort-vilamoura
-  location: Algarve, Portugal
-  description: A heavenly Algarve apartment stay at a contemporary resort
-  price: 49
-  price-description: per apartment per night
-  saved: 69
-  expires: 2019/03/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/89458/86d407dd_e6b3_43af_8eb1_66a7b7a0d651.jpg
-  link: https://www.secretescapes.com/laguna-resort-vilamoura-algarve-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=March2019
-
 - title: Longevity Cegonha Country Club
   id: longevity-cegonha-country-club
   location: Algarve, Portugal
@@ -27,6 +5,28 @@
   price: 76
   price-description: per suite per night
   saved: 57
-  expires: 2019/03/11
+  expires: 2019/03/18
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/64609/33511d55_4d72_4b5c_a888_afdc0ea3aeba.jpg
   link: https://www.secretescapes.com/longevity-cegonha-country-club-algarve-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=March2019
+
+- title: Vilamoura Garden Hotel
+  id: vilamoura-garden-hotel
+  location: Algarve, Portugal
+  description: Sun yourself at a chic Algarve hotel in Portugal's Vilamoura
+  price: 60
+  price-description: per room per night
+  saved: 45
+  expires: 2019/03/18
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/60892/9bca9452_1858_402f_a78e_5c20a8c2b2b4.jpg
+  link: https://www.secretescapes.com/vilamoura-garden-hotel-algarve-portugal123/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=March2019
+
+- title: 5* all-inclusive Algarve beach holiday
+  id: 5-all-inclusive-algarve-beach-holiday
+  location: Pestana Blue Alvor All Inclusive Beach and Golf Resort, Portugal
+  description: Soak up the sun in a five-star Algarve resort
+  price: 499
+  price-description: per person for 7 nights
+  saved: 31
+  expires: 2019/03/18
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90140/9d0e95eb_a61c_42ea_adf8_c425f94921d4.jpg
+  link: https://www.secretescapes.com/family-friendly-algarve-break-in-an-all-inclusive-5-star-pad-pestana-blue-alvor-all-inclusive-beach-and-golf-resort-portugal/sale?utm_source=SE_media&utm_medium=Algarve&utm_campaign=March2019
