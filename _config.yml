@@ -5,20 +5,20 @@ client:
   link: https://www.visitalgarve.pt/en/Default.aspx
 core-se-link: https://www.secretescapes.com/current-sales
 description: >
-  On the southern tip of Portugal lies the country’s most remarkable region – the Algarve. Fringed by a beautiful coastline that shelters golden sea caves and dreamy beaches, the Algarve mixes natural beauty with cultural delights effortlessly. Year-round sun promises enviable escapes framed by exquisite wine and foodie treats, Moorish old towns and buzzing markets, cosmopolitan flair and coastal hideaways – discover your next adventure here.
+  On the southern tip of Portugal lies the country’s most remarkable region – the Algarve. Fringed by a beautiful coastline that shelters golden sea caves and dreamy beaches, the Algarve mixes natural beauty with cultural delights effortlessly. Year-round sun promises enviable escapes framed by exquisite wine and foodie treats, Moorish old towns and buzzing markets, cosmopolitan flair and coastal hideaways – so what are you waiting for? Start a new adventure today.
 
 # file paths
-url:     "https://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/algarve" # the subpath of your site, e.g. /blog/
-img:     "/algarve/_assets/img"
-css:     "/algarve/_assets/css"
-js:      "/algarve/_assets/js"
-
+url: "https://mp.secretescapes.com" # the base hostname & protocol for your site
+baseurl: "/uk/2021/algarve" # the subpath of your site, e.g. /blog/
+img: "/uk/2021/algarve/_assets/img"
+css: "/uk/2021/algarve/_assets/css"
+js: "/uk/2021/algarve/_assets/js"
 
 # Build settings
 markdown: kramdown
-exclude: [node_modules, gulpfile.js, package.json, package-lock.json, js/script.js]
+exclude:
+  [node_modules, gulpfile.js, package.json, package-lock.json, js/script.js]
 keep_files: [_assets]
 sass:
-    sass_dir: css
-    style: compressed
+  sass_dir: css
+  style: compressed

@@ -3,10 +3,8 @@
   description: Golden cliffs and long, white-sand beaches hug the Algarvian coastline – an inviting prospect for sun seekers. The towns along the coast are buzzing with cafes and bars, and the natural sights are breathtaking. Time to head for the beach.
 
   pois:
-
     title: points of interest title
     items:
-
       - id: cliffs-caves
         title: Cliffs & Caves
         description: Near Lagos, you’ll find the Ponta da Piedade, a golden promontory that juts into the sea. The chain of cliffs is best explored by boat, where the unusual forms of the rock create caves, pillars and enchanting grottos. Further along the coast, the famous Benagil cave is a remarkable swimming spot, with an impressive natural cupola open at its peak streaming lightbeaches onto the sheltered beach below. Buy a lilo and sling your stuff on it, swimming around to this hidden, mesmerising spot.
@@ -23,21 +21,15 @@
         title: Ria Formosa
         description: This remarkable wetland of lagoons and small island spits is a natural treasure. Migratory birds depend on this unique landscape, making the wetlands perfect for birdwatching. A picture of blue and green, boat tours frequently criss-cross through the lengthy island network, so pick your tour and discover the Algarve’s most coveted natural prize.
 
-
-
 ################################################################################
-
-
 
 - id: land
   title: The Interior
   description: It would be a crying shame to miss the gems that lie inland. Tear yourself away from the beaches and you could discover picturesque village life, dramatic outdoor scenes, long hikes and exciting cosmopolitan centres. Head inland for hidden Algarve.
 
   pois:
-
     title: points of interest title
     items:
-
       - id: alte
         title: Alte
         description: In the rolling interior of the region, picturesque villages and small towns cling to rocky outcrops, warrens of rural life ripe for exploration. The cobbled, whitewashed town of Alte is refreshingly pretty. Winding lanes connect small artisan craft shops, cafes and restaurants, with fontes (small streams that once fed the mills) spread throughout. The Grand Font is perfect for a refreshing dip – just as the locals do.
@@ -54,21 +46,15 @@
         title: Loulé
         description: The largest inland town, Loulé is a great jumping off point for exploring the Algarve’s mountains and hidden villages. Its markets are great for stocking up on supplies, its cafes and restaurants great for indulging in southern Portugal’s delicacies. The dominating Moorish castle and surrounding old quarter are a charming setting, hiding age-old artisan workshops. Tradition runs deep; the town’s history stretches back to the Romans. Don’t miss the annual musical festival and colourful carnival!
 
-
-
 ################################################################################
-
-
 
 - id: culture
   title: The Culture
   description: Discover the Algarve life in the bustling gypsy markets and the labyrinthine streets of its old towns. Unpick a heritage that mixes old Moorish influence with traditional Algarvian living, from sacred art to relaxed piazza coffee-culture...
 
   pois:
-
     title: points of interest title
     items:
-
       - id: lagos-old-town
         title: Lagos Old Town
         description: This bustling town, where the Algarve’s heritage is written into the architecture and style of the place, shelters a beautiful Old Town. Roman and Moorish landmarks fall around, with high curtain walls enclosing the medieval alleyways. Islamic curves sit next to Italianate piazzas, where cafe culture thrives and the restaurants excel in Algarvian offerings. Do as the Algarvians do; find a spot for people watching over coffee and nibbles in this gorgeous locale.
@@ -85,21 +71,15 @@
         title: Gypsy markets
         description: The region’s gypsy markets, or flea markets, are a great place to get down with locals. Study carefully; haggling is a rite of passage! Find vintage gems and artisanal treats – most will have a smattering of local craftspeople and foodie producers sharing their wares. Make for Loulé on Saturdays (next to the food market!), or head for the monthly market at Lagoa. There’s more across the region to suit any visit, so brush up on your Portuguese bargaining skills and find your treasures!
 
-
-
 ################################################################################
-
-
 
 - id: food
   title: The Tastes
-  description: Delectable seafood and delicious culinary traditions form the backbone of the Algarve larder. The temperate climate spoils producers with outstanding produce, from the rolling vineyards to the tasty offerings in the regions many farmers’ markets...
+  description: Delectable seafood and delicious culinary traditions form the backbone of the Algarve larder. The temperate climate spoils producers with outstanding produce, from the rolling vineyards to the tasty offerings in the region's many farmers’ markets...
 
   pois:
-
     title: points of interest title
     items:
-
       - id: seafood
         title: Seafood
         description: It’s no surprise that the Algarve is a seafood lover’s paradise. Fresh fish is the mainstay of the Algarve kitchen – it doesn’t come much fresher. Local favourites include grilled sardines and the regional classic, cataplana. Lobster, clams, squid and whatever else looks good is hauled from the sea and cooked in white wine and tomato, in an eponymous copper dish. Delicious!
