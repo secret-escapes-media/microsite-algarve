@@ -1,65 +1,40 @@
-- title: 5* Algarve spa & golf retreat near the beach – Fully refundable
-  id: 5-algarve-spa-golf-retreat-near-the-beach-fully-refundable
-  location: Hilton Vilamoura As Cascatas Golf Resort & Spa, Portugal
-  description: Modern five-star Algarve resort with golf and a spa
-  price: 68
-  price-description: per room per night
-  saved: 43
-  image: https://secretescapes-web.imgix.net/hotels/1030/4c094e5b_dd8b_456f_9d46_300bfb849964.jpg?auto=format,compress
-  link: https://www.secretescapes.com/5-star-algarve-spa-and-golf-retreat-near-the-beach-fully-refundable-hilton-vilamoura-as-cascatas-golf-resort-and-spa-portugal/sale-hotel
-
 - title: Scenic Algarve bolthole with direct beach access - Fully refundable
-  id: scenic-algarve-bolthole-with-direct-beach-access-fully-refundable
   location: PortoBay Falésia, Albufeira, Portugal
   description: Stunning coastal views from a modern Algarve retreat
-  price: 101
+  price: 100
   price-description: per room per night
   saved: 18
   image: https://secretescapes-web.imgix.net/hotels/814/6a2a4cfc_752c_4ad2_8690_ef944e1ee832.jpg?auto=format,compress
   link: https://www.secretescapes.com/scenic-algarve-bolthole-with-direct-beach-access-fully-refundable-portobay-falesia-albufeira-portugal/sale-hotel
 
+- title: 5* Algarve spa & golf retreat near the beach – Fully refundable
+  location: Hilton Vilamoura As Cascatas Golf Resort & Spa, Portugal
+  description: Modern five-star Algarve resort with golf and a spa
+  price: 67
+  price-description: per room per night
+  saved: 43
+  image: https://secretescapes-web.imgix.net/hotels/1030/4c094e5b_dd8b_456f_9d46_300bfb849964.jpg?auto=format,compress
+  link: https://www.secretescapes.com/5-star-algarve-spa-and-golf-retreat-near-the-beach-fully-refundable-hilton-vilamoura-as-cascatas-golf-resort-and-spa-portugal/sale-hotel
+
 - title: Historic Algarve stay in an 18th-century palace - Fully refundable
-  id: historic-algarve-stay-in-an-18th-century-palace-fully-refundable
   location: Pousada Palácio Estoi, Faro, Portugal
   description: 18th-century rose-hued Algarve palace stay
   price: 91
   price-description: per room per night
-  saved: 39
+  saved: 37
   image: https://secretescapes-web.imgix.net/hotels/1508/b58e939f_8b60_42ce_aa95_6f630a761246.jpg?auto=format,compress
   link: https://www.secretescapes.com/historic-algarve-stay-in-an-18th-century-palace-fully-refundable-pousada-palacio-estoi-faro-portugal/sale-hotel
 
-- title: Adults-only hotel stay on Portugal's Algarve - Fully refundable
-  id: adults-only-hotel-stay-on-portugal-s-algarve-fully-refundable
-  location: Jupiter Marina Hotel, Portimão, Portugal
-  description: Adults-only coastal bliss in Portugal's Algarve
-  price: 77
-  price-description: per room per night
-  saved: 42
-  image: https://secretescapes-web.imgix.net/hotels/629/991e9922_e7b0_4c46_bdb4_af03e40beb6b.jpg?auto=format,compress
-  link: https://www.secretescapes.com/adults-only-hotel-stay-on-portugals-algarve-fully-refundable-jupiter-marina-hotel-portimao-portugal/sale-hotel
-
-- title: Discover the stunning Portuguese Algarve - Flexible holiday
-  id: discover-the-stunning-portuguese-algarve-flexible-holiday
-  location: Algarve, Portugal
-  description: Sapphire waters and sandy beaches along Portugal's Algarve
-  price: 229
-  price-description: Based on 2 people for 5 nights
-  saved: 0
-  image: https://secretescapes-web.imgix.net/webRedirects/469/b335db0e_c3f4_4265_9d71_7448bfa7f1a5.jpg?auto=format,compress
-  link: https://www.secretescapes.com/discover-the-portuguese-algarve-uk/sale-wrd
-
 - title: 5* luxury suite stay at a romantic Algarve resort - Fully refundable
-  id: 5-luxury-suite-stay-at-a-romantic-algarve-resort-fully-refundable
   location: Monte Santo Resort, Lagoa, Portugal
   description: Five-star bliss in the Algarve at 'Portugal's Most Romantic Resort'
-  price: 69
+  price: 68
   price-description: per room per night
   saved: 50
   image: https://secretescapes-web.imgix.net/hotels/1494/5cb7515e_e658_446d_a3ef_d691990bee47.jpg?auto=format,compress
   link: https://www.secretescapes.com/5-star-luxury-suite-stay-at-a-romantic-algarve-resort-fully-refundable-monte-santo-resort-lagoa-portugal/sale-hotel
 
 - title: Sublime Algarve stay at a stylish coastal spa hotel - Fully refundable
-  id: sublime-algarve-stay-at-a-stylish-coastal-spa-hotel-fully-refundable
   location: Monchique Resort & Spa, Portugal
   description: Stylish spa hideaway in an off-grid corner of the Algarve
   price: 65
@@ -68,18 +43,7 @@
   image: https://secretescapes-web.imgix.net/hotels/2219/b22c4e28_9831_4102_9bc0_f1a9fec4fd16.jpg?auto=format,compress
   link: https://www.secretescapes.com/monchique-resort-and-spa-algarve-portugal/sale-hotel
 
-- title: Soothing getaway to relaxed Algarve hotel - Fully refundable
-  id: soothing-getaway-to-relaxed-algarve-hotel-fully-refundable
-  location: Vale d'El Rei Hotel & Villas, Algarve, Portugal
-  description: Relax near some of the Algarve's finest beaches at this chic pad
-  price: 60
-  price-description: per room per night
-  saved: 18
-  image: https://secretescapes-web.imgix.net/hotels/2216/dfa664b7_4fd0_499d_acf1_53e1983dca33.jpg?auto=format,compress
-  link: https://www.secretescapes.com/vale-del-rei-hotel-and-villas-algarve-portugal/sale-hotel
-
 - title: 5* Portugal spa retreat in the Algarve - Fully refundable
-  id: 5-portugal-spa-retreat-in-the-algarve-fully-refundable
   location: Longevity Health & Wellness Hotel, Portugal
   description: Serene five-star spa stay along the Algarve
   price: 99
@@ -88,22 +52,11 @@
   image: https://secretescapes-web.imgix.net/hotels/542/b03d401d_c46b_4018_bfc4_53a3c77ceb4e.jpg?auto=format,compress
   link: https://www.secretescapes.com/5-star-portugal-spa-retreat-in-the-algarve-fully-refundable-longevity-health-and-wellness-hotel-portugal/sale-hotel
 
-- title: Adults-only tranquil beach retreat in the Algarve - Fully refundable
-  id: adults-only-tranquil-beach-retreat-in-the-algarve-fully-refundable
-  location: Aqua Pedra dos Bicos, Portugal
-  description: Algarve beach bliss at a modern adults-only hotel
-  price: 70
+- title: Soothing getaway to relaxed Algarve hotel - Fully refundable
+  location: Vale d'El Rei Hotel & Villas, Algarve, Portugal
+  description: Relax near some of the Algarve's finest beaches at this chic pad
+  price: 60
   price-description: per room per night
-  saved: 44
-  image: https://secretescapes-web.imgix.net/hotels/983/8f520845_c14d_4608_a81d_cef499cf2c77.jpg?auto=format,compress
-  link: https://www.secretescapes.com/adults-only-tranquil-beach-retreat-in-the-algarve-fully-refundable-aqua-pedra-dos-bicos-portugal/sale-hotel
-
-- title: Algarve road trip with boat trip - Flexible holiday
-  id: algarve-road-trip-with-boat-trip-flexible-holiday
-  location: Albufeira, Lagos and Tavira, Portugal
-  description: A road trip along the Portuguese Algarve coast including boat trips
-  price: 369
-  price-description: Based on 2 people for 7 nights
-  saved: 0
-  image: https://secretescapes-web.imgix.net/webRedirects/370/24593898_7e8d_4b20_9bcd_74b052c3dbc8.jpg?auto=format,compress
-  link: https://www.secretescapes.com/algarve-road-trip-with-boat-trip-flexible-holiday-albufeira-lagos-and-tavira-portugal/sale-wr
+  saved: 18
+  image: https://secretescapes-web.imgix.net/hotels/2216/dfa664b7_4fd0_499d_acf1_53e1983dca33.jpg?auto=format,compress
+  link: https://www.secretescapes.com/vale-del-rei-hotel-and-villas-algarve-portugal/sale-hotel
