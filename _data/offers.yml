@@ -48,16 +48,6 @@
   image: https://secretescapes-web.imgix.net/webRedirects/469/b335db0e_c3f4_4265_9d71_7448bfa7f1a5.jpg?auto=format,compress
   link: https://www.secretescapes.com/discover-the-portuguese-algarve-uk/sale-wrd
 
-- title: Relaxing Algarve apartment stay in sunny Lagos - Fully refundable
-  id: relaxing-algarve-apartment-stay-in-sunny-lagos-fully-refundable
-  location: Vila Branca by Água Hotels, Portugal
-  description: A relaxed and refurbished Algarve stay near soft sands
-  price: 40
-  price-description: per room per night
-  saved: 18
-  image: https://secretescapes-web.imgix.net/hotels/2754/9a8d4464_6ecd_4b28_b440_981b5e35afc1.jpg?auto=format,compress
-  link: https://www.secretescapes.com/relaxing-algarve-apartment-stay-in-sunny-lagos-fully-refundable-vila-branca-by-agua-hotels-portugal/sale-hotel
-
 - title: 5* luxury suite stay at a romantic Algarve resort - Fully refundable
   id: 5-luxury-suite-stay-at-a-romantic-algarve-resort-fully-refundable
   location: Monte Santo Resort, Lagoa, Portugal
@@ -107,16 +97,6 @@
   saved: 44
   image: https://secretescapes-web.imgix.net/hotels/983/8f520845_c14d_4608_a81d_cef499cf2c77.jpg?auto=format,compress
   link: https://www.secretescapes.com/adults-only-tranquil-beach-retreat-in-the-algarve-fully-refundable-aqua-pedra-dos-bicos-portugal/sale-hotel
-
-- title: Blissful Algarve apartment stay - Fully refundable
-  id: blissful-algarve-apartment-stay-fully-refundable
-  location: Pinhal da Marina Apartamentos Turisticos, Vilamoura, Portugal
-  description: Tranquil self-catering Portugal escape
-  price: 47
-  price-description: per room per night
-  saved: 21
-  image: https://secretescapes-web.imgix.net/hotels/3479/bf46a763_aed8_441a_bf10_50cab41b47b9.jpg?auto=format,compress
-  link: https://www.secretescapes.com/blissful-algarve-apartment-stay-fully-refundable-pinhal-da-marina-apartamentos-turisticos-vilamoura-portugal/sale-hotel
 
 - title: Algarve road trip with boat trip - Flexible holiday
   id: algarve-road-trip-with-boat-trip-flexible-holiday
