@@ -12,36 +12,18 @@
   description: Modern five-star Algarve resort with golf and a spa
   price: 67
   price-description: per room per night
-  saved: 43
+  saved: 48
   image: https://secretescapes-web.imgix.net/hotels/1030/4c094e5b_dd8b_456f_9d46_300bfb849964.jpg?auto=format,compress
   link: https://www.secretescapes.com/5-star-algarve-spa-and-golf-retreat-near-the-beach-fully-refundable-hilton-vilamoura-as-cascatas-golf-resort-and-spa-portugal/sale-hotel
-
-- title: Historic Algarve stay in an 18th-century palace - Fully refundable
-  location: Pousada Palácio Estoi, Faro, Portugal
-  description: 18th-century rose-hued Algarve palace stay
-  price: 91
-  price-description: per room per night
-  saved: 37
-  image: https://secretescapes-web.imgix.net/hotels/1508/b58e939f_8b60_42ce_aa95_6f630a761246.jpg?auto=format,compress
-  link: https://www.secretescapes.com/historic-algarve-stay-in-an-18th-century-palace-fully-refundable-pousada-palacio-estoi-faro-portugal/sale-hotel
 
 - title: 5* luxury suite stay at a romantic Algarve resort - Fully refundable
   location: Monte Santo Resort, Lagoa, Portugal
   description: Five-star bliss in the Algarve at 'Portugal's Most Romantic Resort'
-  price: 68
-  price-description: per room per night
-  saved: 50
+  price: 69
+  price-description: per suite per night
+  saved: 43
   image: https://secretescapes-web.imgix.net/hotels/1494/5cb7515e_e658_446d_a3ef_d691990bee47.jpg?auto=format,compress
   link: https://www.secretescapes.com/5-star-luxury-suite-stay-at-a-romantic-algarve-resort-fully-refundable-monte-santo-resort-lagoa-portugal/sale-hotel
-
-- title: Sublime Algarve stay at a stylish coastal spa hotel - Fully refundable
-  location: Monchique Resort & Spa, Portugal
-  description: Stylish spa hideaway in an off-grid corner of the Algarve
-  price: 65
-  price-description: per room per night
-  saved: 45
-  image: https://secretescapes-web.imgix.net/hotels/2219/b22c4e28_9831_4102_9bc0_f1a9fec4fd16.jpg?auto=format,compress
-  link: https://www.secretescapes.com/monchique-resort-and-spa-algarve-portugal/sale-hotel
 
 - title: 5* Portugal spa retreat in the Algarve - Fully refundable
   location: Longevity Health & Wellness Hotel, Portugal
@@ -55,8 +37,8 @@
 - title: Soothing getaway to relaxed Algarve hotel - Fully refundable
   location: Vale d'El Rei Hotel & Villas, Algarve, Portugal
   description: Relax near some of the Algarve's finest beaches at this chic pad
-  price: 60
+  price: 59
   price-description: per room per night
-  saved: 18
+  saved: 19
   image: https://secretescapes-web.imgix.net/hotels/2216/dfa664b7_4fd0_499d_acf1_53e1983dca33.jpg?auto=format,compress
   link: https://www.secretescapes.com/vale-del-rei-hotel-and-villas-algarve-portugal/sale-hotel
